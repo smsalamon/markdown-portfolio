@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+- Photography :camera:
+- Travelling :airplane:
+- Hiking :deciduous_tree:
