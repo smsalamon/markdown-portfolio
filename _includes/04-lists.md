@@ -1,0 +1,3 @@
+- Photography :camera:
+- Travelling :airplane:
+- Hiking :deciduous_tree:
